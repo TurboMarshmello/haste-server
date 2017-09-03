@@ -315,7 +315,7 @@ haste.prototype.configureButtons = function() {
       },
       shortcutDescription: 'control + shift + t',
       action: function() {
-        window.open('https://twitter.com/share?url=' + encodeURI(window.location.href));
+        window.open('https://twitter.com/share?url=' + encodeURI(window.location.href)&text=Nightcore%20-%20Hand%20In%20Hand);
       }
     }
   ];
